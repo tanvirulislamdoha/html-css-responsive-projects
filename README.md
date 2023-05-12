@@ -1,4 +1,4 @@
-# Responsve HTML CSS Projects
+## Responsve HTML CSS Projects
 
 ## Description
 
@@ -7,7 +7,7 @@ This project is built using HTML 5 and CSS 3, and is designed to be accessible a
 
 
 ## Demo
-[Add a link to a live demo of your project here, or embed a screenshot or video demo]
+
 
 ## Technologies
 - HTML5
