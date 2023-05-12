@@ -1,4 +1,4 @@
-## Responsve HTML CSS Projects
+## Responsive HTML CSS Projects
 
 ## Description
 
